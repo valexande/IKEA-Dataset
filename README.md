@@ -11,6 +11,7 @@ This dataset contains more than 12.600 images about household objects, seperated
               00327772                                       20329789
  
 Dimension 00327772 Width: 145 cm Depth: 48 cm Height: 92 cm
+
 Dimension 20329789 Width: 90 cm Depth: 37 cm Height: 193 cm
 
 This project has received funding from the Hellenic Foundation for Research and Innovation
