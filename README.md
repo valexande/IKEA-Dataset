@@ -10,9 +10,9 @@ This dataset contains more than 12.600 images about household objects, seperated
 
               00327772                                       20329789
  
-Dimension 00327772 Width: 145cm Length: 92cm Material: Wood
+Dimension 00327772 Width: 145cm Length: 92cm
 
-Dimension 20329789 Width: 90cm Length: 193cm Material: Metal
+Dimension 20329789 Width: 90cm Length: 193cm
 
 This project has received funding from the Hellenic Foundation for Research and Innovation
 (HFRI) and the General Secretariat for Research and Technology (GSRT),
